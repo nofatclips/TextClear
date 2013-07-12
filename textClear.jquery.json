@@ -11,7 +11,7 @@
     	"ClearText",
 		"ClearInput"
     ],
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": {
         "name": "exex zian",
         "url": "https://github.com/exexzian/TextClear/blob/master/author.txt"
@@ -34,6 +34,7 @@
     "homepage": "http://exexzian.github.io/TextClear/",
     "docs": "https://github.com/exexzian/TextClear",
     "download": "http://exexzian.github.io/TextClear/",
+    "demo": "http://exexzian.github.io/TextClear/demo/TextClearDemo.html",
     "dependencies": {
         "jquery": ">=1.6"
     }

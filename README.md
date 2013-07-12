@@ -1,6 +1,6 @@
 ## TextClear
 ===========================================================================<br/>
-textClear.js v0.0.2<br/>
+textClear.js v0.0.3<br/>
 jQuery Plugin to clear input field text on fly - like as provided in Internet Explorer 10 <br/>
 Requires - textClearStyle.css and jquery lib(>1.6)
 
@@ -18,6 +18,11 @@ Requires - textClearStyle.css and jquery lib(>1.6)
 <img src="http://s20.postimg.org/5rd0o6vtp/demo.png" title="Text Clear Demo" />
 
 <hr size="3"/>
+
+**Note:** It overrides the IE-10's default ✘ image so as to offer the same look and feel on all browsers.
+
+<hr size="3"/>
+
 **Usage**:<br/>
 
 ✔ Add <code>noTextClear</code> class in all those **text** input fields in which you want to apply the plugin effect like as follows:<br/>
